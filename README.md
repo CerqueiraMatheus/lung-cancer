@@ -1,1 +1,7 @@
-# lung-cancer
+# Lung Cancer
+
+## Install
+
+```bash
+pip install .
+```
