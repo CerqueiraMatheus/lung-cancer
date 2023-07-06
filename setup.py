@@ -9,6 +9,9 @@ setup(
         'numpy',
         'pandas',
         'pydicom',
-        'tqdm'
+        'tqdm',
+        'ultralytics',
+        'seaborn',
+        'tensorflow'
     ]
 )
