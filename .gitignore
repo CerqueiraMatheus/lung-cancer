@@ -167,4 +167,4 @@ Lung-PET-CT-Dx-Annotations-XML-Files-rev12222020.zip
 statistics-clinical-20201221.xlsx
 VisualizationTools.zip
 data/*
-notebooks/runs/detect/*
+# notebooks/runs/detect/*
